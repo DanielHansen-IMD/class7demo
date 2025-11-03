@@ -2,3 +2,9 @@ body {
     margin: 6vw 20vw;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 1.5em;
+    padding: 0;
+}

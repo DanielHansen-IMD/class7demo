@@ -1,6 +1,9 @@
 body {
-    margin: 6vw 20vw;
+    margin: 0;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main {
+    margin: 3vw 20vw 6vw;
 }
 nav ul {
     display: flex;

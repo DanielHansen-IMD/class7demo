@@ -9,5 +9,4 @@ Moose is a striped grey cat. Here are some interesting things (to me) about him.
 - He has high anxiety
 - He hides from strangers
 
-![grey cat sitting in laundry basket](/images/moose.jpg)
-
+![a grey striped cat sitting in a laundry basket](/images/moose.jpg)

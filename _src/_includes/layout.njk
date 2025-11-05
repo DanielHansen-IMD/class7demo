@@ -10,8 +10,16 @@
     <header>
         {% include 'nav.html' %}
     </header>
-    <h1>{{ title }}</h1>
-    <main>
+    {% if pageType == 'home' %}
+        <div class="hero">
+            <h1>{{ title }}</h1>
+        </div>
+        <main>
+    {% else %}
+        <main>
+        <h1>{{ title }}</h1>
+    {% endif %}
+    
         {{ content | safe }}
     </main>
 </html>
